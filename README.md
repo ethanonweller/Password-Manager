@@ -2,7 +2,9 @@
 Locally store login information for all of your services in a secure application
 
 1. How is the login information stored securely?
-* The application creates a SHA512 encrypted hash of your data that is then written to a local text file. Here is the code snippet I for the hashing procedure I took shamelessly stole from [here]: https://www.codeproject.com/Articles/12092/Encrypt-Decrypt-Files-in-VB-NET-Using-Rijndael .
+* The application creates a SHA512 encrypted hash of your data that is then written to a local text file. Here is the code snippet I for the hashing procedure I took shamelessly stole from [here](https://www.codeproject.com/Articles/12092/Encrypt-Decrypt-Files-in-VB-NET-Using-Rijndael)
+
+[I'm an inline-style link](https://www.google.com)
 
 2. Where is this file located?
 * Wherever you install the *Password Vault* application. Most likely C:/*
