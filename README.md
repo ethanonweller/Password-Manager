@@ -45,7 +45,7 @@ End Function
     * Wherever you install the *Password Vault* application. Most likely C:/*
 
 3. How do I know this application does not send my logins to you in some way?
-    * You're free to look through the source code and verify that for yourself
+    * You're free to look through the source code and verify that for yourself. The file that contains your data is stored on your PC only.
 
 
 
